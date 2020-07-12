@@ -1,0 +1,25 @@
+@media (max-width: 1140px){
+    .citizen-item__box {
+        flex-wrap: wrap;
+        margin-bottom: 4px;
+    }
+    .frame__inner{
+        width: 1000px;
+    }
+    .media__content-reason {
+        display: none;
+    }
+    .header__content-inner{
+        max-width: 1100px;
+    }
+    .footer .footer__top-inner .footer__rights {
+        display: block;
+        padding: 50px 0 50px;
+        width: 753px;
+        border-top: 1px dotted gray;
+        text-align: center;
+        margin-left: 270px;
+        padding-right: 120px;
+    }
+}
+/* вобщем это третий сайт своими руками с нуля, это мини адаптив, тк уже пятница и лень, адапивы буду смотреть с мараонов и делать дальше по два разрешения пока что */
